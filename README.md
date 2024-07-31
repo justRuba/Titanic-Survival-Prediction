@@ -27,9 +27,16 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 
 ## Dependencies
 
-- Python 3.7+
+- Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - scikit-learn
+
+## Explore the data
+
+![WhatsApp Image 2024-08-01 at 01 08 05_0b9e88e1](https://github.com/user-attachments/assets/70b284ea-e34f-404a-842b-2d3adfaf6c75)
+
+![WhatsApp Image 2024-08-01 at 01 09 03_4ba502b2](https://github.com/user-attachments/assets/9e899c42-0f99-4665-a61b-dfd3055eeed4)
+
