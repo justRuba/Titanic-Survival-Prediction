@@ -24,3 +24,12 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 - `Fare`: Fare paid
 - `Cabin`: Cabin number
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+## Dependencies
+
+- Python 3.7+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
