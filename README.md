@@ -55,7 +55,7 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 
 ## Data Preprocessing
 
-# Handle missing values:
+### Handle missing values
 
 - Fill missing Age values with the mean age.
 
@@ -69,14 +69,17 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 
   ![WhatsApp Image 2024-08-01 at 01 56 48_4eb412a8](https://github.com/user-attachments/assets/355323f7-d9c2-46f8-af0a-d79ff8b90ef6)
 
+### Drop unnecessary columns: PassengerId, Name, Ticket
 
+![WhatsApp Image 2024-08-01 at 02 02 27_2d03f4ec](https://github.com/user-attachments/assets/95663bc9-965b-4a37-977d-05ee36c74e1b)
 
+### Encode categorical columns: Sex, Embarked
 
+![WhatsApp Image 2024-08-01 at 02 03 54_3e456cf7](https://github.com/user-attachments/assets/c2d1b2fd-5111-4983-86db-c61d11a1cf16)
 
+### Handle duplicate rows
 
-
-
-
+![WhatsApp Image 2024-08-01 at 02 05 02_4bb5abc5](https://github.com/user-attachments/assets/58cb5242-8198-4ac1-8092-6088e45cd0e9)
 
 
 ## Analysis of our data
