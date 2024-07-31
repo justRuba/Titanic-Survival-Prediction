@@ -34,7 +34,7 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 - Seaborn
 - scikit-learn
 
-## Explore and analysis the data
+## Explore the data
 - Number of rows and columns And Information about data:
    
 ![WhatsApp Image 2024-08-01 at 01 08 05_0b9e88e1](https://github.com/user-attachments/assets/70b284ea-e34f-404a-842b-2d3adfaf6c75)
@@ -53,6 +53,34 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 
 ![WhatsApp Image 2024-08-01 at 01 38 50_4d5f71d1](https://github.com/user-attachments/assets/7fcb8065-e8e3-499a-99ea-bb251eb7959d)
 
+## Data Preprocessing
+
+# Handle missing values:
+
+- Fill missing Age values with the mean age.
+
+  ![WhatsApp Image 2024-08-01 at 01 50 21_b40cc6b0](https://github.com/user-attachments/assets/cbe521d6-4736-4692-be1c-171a1bc52dde)
+
+- Drop the Cabin column due to a high percentage of missing values.
+
+  ![WhatsApp Image 2024-08-01 at 01 51 46_96ae2ae2](https://github.com/user-attachments/assets/78744781-c127-424c-b580-0b129cd008d7)
+
+- Fill missing Embarked values with the mode.
+
+  ![WhatsApp Image 2024-08-01 at 01 56 48_4eb412a8](https://github.com/user-attachments/assets/355323f7-d9c2-46f8-af0a-d79ff8b90ef6)
+
+
+
+
+
+
+
+
+
+
+
+## Analysis of our data
+
 - The plot shows the distribution of passengers by gender in the Titanic dataset. It displays the count of male and female passengers, illustrating the number of passengers in each gender category.
 
 ![WhatsApp Image 2024-08-01 at 01 40 52_f27f140f](https://github.com/user-attachments/assets/4838a31a-df76-40f0-b523-899f776cbc4b)
@@ -64,6 +92,3 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 - The plot shows the distribution of passengers across different classes (Pclass), with survival outcomes indicated by color. It illustrates the count of passengers in each class who survived versus those who did not, highlighting survival rates by class.
 
 ![WhatsApp Image 2024-08-01 at 01 45 09_378ec262](https://github.com/user-attachments/assets/dcf45d95-2060-46d3-abbd-09cb9f7aa616)
-
-## Data Preprocessing
-
