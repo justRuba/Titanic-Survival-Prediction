@@ -134,3 +134,4 @@ The model achieved an accuracy of approximately 78.8% on the test data.
 
 The Logistic Regression model provides a reasonable prediction of survival on the Titanic dataset. Future work could include experimenting with other models, feature engineering, and hyperparameter tuning to improve performance.
 
+Kaggle notebook: [Link to the notebook](https://www.kaggle.com/code/rubahameed/titanic-survival-prediction/notebook).
