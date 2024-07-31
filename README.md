@@ -49,6 +49,21 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 
 ![WhatsApp Image 2024-08-01 at 01 27 51_8fb8a4ba](https://github.com/user-attachments/assets/222a02ae-fb48-4a47-adb2-a49d74654106)
 
+- The plot shows the distribution of survival outcomes in the Titanic dataset. It displays the count of passengers who survived (Survived = 1) versus those who did not survive (Survived = 0).
+
+![WhatsApp Image 2024-08-01 at 01 38 50_4d5f71d1](https://github.com/user-attachments/assets/7fcb8065-e8e3-499a-99ea-bb251eb7959d)
+
+- The plot shows the distribution of passengers by gender in the Titanic dataset. It displays the count of male and female passengers, illustrating the number of passengers in each gender category.
+
+![WhatsApp Image 2024-08-01 at 01 40 52_f27f140f](https://github.com/user-attachments/assets/4838a31a-df76-40f0-b523-899f776cbc4b)
+
+- The plot shows the distribution of passengers by gender, with survival outcomes indicated by color. It displays counts of male and female passengers who survived and did not survive, providing insight into survival rates across genders.
+
+![WhatsApp Image 2024-08-01 at 01 43 47_bda89f4c](https://github.com/user-attachments/assets/dc7008d9-cb34-400f-98ac-85258b54c0e1)
+
+- The plot shows the distribution of passengers across different classes (Pclass), with survival outcomes indicated by color. It illustrates the count of passengers in each class who survived versus those who did not, highlighting survival rates by class.
+
+![WhatsApp Image 2024-08-01 at 01 45 09_378ec262](https://github.com/user-attachments/assets/dcf45d95-2060-46d3-abbd-09cb9f7aa616)
 
 ## Data Preprocessing
 
