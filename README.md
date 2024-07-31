@@ -95,3 +95,42 @@ The dataset used in this project is the Titanic dataset, which can be found on [
 - The plot shows the distribution of passengers across different classes (Pclass), with survival outcomes indicated by color. It illustrates the count of passengers in each class who survived versus those who did not, highlighting survival rates by class.
 
 ![WhatsApp Image 2024-08-01 at 01 45 09_378ec262](https://github.com/user-attachments/assets/dcf45d95-2060-46d3-abbd-09cb9f7aa616)
+
+## Model Building
+
+- Separate features (X) and target (y).
+
+  ![WhatsApp Image 2024-08-01 at 02 11 09_08eaef17](https://github.com/user-attachments/assets/1a3a65f7-fa4d-4839-9f86-ddc2e5248018)
+
+- Split the data into training and testing sets.
+
+  ![WhatsApp Image 2024-08-01 at 02 13 33_0bff5f5f](https://github.com/user-attachments/assets/f55f76df-8579-43cb-bffd-c422cd4b09fd)
+
+- Train a Logistic Regression model on the training data.
+
+  ![WhatsApp Image 2024-08-01 at 02 14 41_daf39050](https://github.com/user-attachments/assets/2de80898-9677-4fe5-895e-afedd91a2244)
+
+## Evaluation
+
+- Make predictions on the test data.
+
+  ![WhatsApp Image 2024-08-01 at 02 16 13_75a8d1a5](https://github.com/user-attachments/assets/73bcf4cb-1322-4319-b5cc-b75f6c07b1ed)
+
+- Evaluate the model using accuracy, confusion matrix, and classification report.
+
+  ![WhatsApp Image 2024-08-01 at 02 17 18_0546456e](https://github.com/user-attachments/assets/b9461803-a6ed-46f6-8ac2-8c1b3754a8f1)
+
+## Visualization
+
+- Plot a confusion matrix to visualize the model's performance.
+
+  ![WhatsApp Image 2024-08-01 at 02 18 40_9f249fc0](https://github.com/user-attachments/assets/eae7a097-c443-4059-bd70-cd6b22c1b77a)
+
+## Results
+
+The model achieved an accuracy of approximately 78.8% on the test data.
+
+## Conclusion
+
+The Logistic Regression model provides a reasonable prediction of survival on the Titanic dataset. Future work could include experimenting with other models, feature engineering, and hyperparameter tuning to improve performance.
+
